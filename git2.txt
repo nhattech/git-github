@@ -1,1 +1,2 @@
 Thu commit sau khi push githup
+thu push lan 2
