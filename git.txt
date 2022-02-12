@@ -12,3 +12,4 @@
 12. merging
 13. reset --soft, reset --mixed, reset --hard
 14. git revert
+15. .gitignore
