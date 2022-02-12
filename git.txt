@@ -6,3 +6,5 @@
 6. git show
 7. git diff
 8. thuat ngu: working directory, staging area, repositoy
+9. git checkout
+10. git reset
