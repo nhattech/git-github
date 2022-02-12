@@ -14,3 +14,11 @@
 14. git revert
 15. .gitignore
 16. githup
+17. git clone <url>
+18. git pull
+19. pull request:
+	a. git checkout -b <feature_branch>
+	b. git push origin <branch>
+	c. create a pull request on Githup
+	d. review code
+	e. merge to master
