@@ -25,3 +25,6 @@
 		- git fetch branch into local to test offline (optional)
 		- approve the pull request
 	e. merge to master
+20. Resolve conflict sử dụng rebase
+21. Resolve conflict sử dụng merge
+
