@@ -21,4 +21,7 @@
 	b. git push origin <branch>
 	c. create a pull request on Githup
 	d. review code
+		- review code onine (githup)
+		- git fetch branch into local to test offline (optional)
+		- approve the pull request
 	e. merge to master
