@@ -1,3 +1,5 @@
 Thu commit sau khi push githup
 thu push lan 2
 Luu y: Xuong dong khi ket thuc mot doan
+Thay doi git2 de thu nghiem branch moi
+
