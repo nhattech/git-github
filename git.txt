@@ -10,3 +10,4 @@
 10. git reset
 11. branching
 12. merging
+13. reset --soft, reset --mixed, reset --hard
