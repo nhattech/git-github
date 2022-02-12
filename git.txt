@@ -8,3 +8,5 @@
 8. thuat ngu: working directory, staging area, repositoy
 9. git checkout
 10. git reset
+11. branching
+12. merging
