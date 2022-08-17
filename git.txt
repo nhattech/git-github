@@ -1,12 +1,13 @@
 1. git init
-2. git add
-3. git commit
+2. git add fileName/ . (if add all)
+3. git commit -m "this is commit"
 4. git status
 5. git log
 6. git show
 7. git diff
+7.1. git diff head (compare workspace and local repository)
 8. thuat ngu: working directory, staging area, repositoy
-9. git checkout
+9. git checkout branchName/ -b newBranch
 10. git reset
 11. branching
 12. merging
@@ -17,11 +18,11 @@
 17. git clone <url>
 18. git pull
 19. pull request:
-	a. git checkout -b <feature_branch>
+	a. git checkout -b newBranch 
 	b. git push origin <branch>
 	c. create a pull request on Githup
-	d. review code
-		- review code onine (githup)
+	d. review code (online)
+		- review code online (githup)
 		- git fetch branch into local to test offline (optional)
 		- approve the pull request
 	e. merge to master
