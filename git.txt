@@ -8,7 +8,7 @@
 7.1. git diff head (compare workspace and local repository)
 8. thuat ngu: working directory, staging area, repositoy
 9. git checkout branchName/ -b newBranch
-10. git reset
+10. git reset: Git reset --hard a0fvf8 (quay về commit a0fvf8)
 11. branching
 12. merging
 13. reset --soft, reset --mixed, reset --hard
